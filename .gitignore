@@ -306,4 +306,4 @@ pyproject.toml
 uv.lock
 
 # vscode
-.vscode
+.vscode/
