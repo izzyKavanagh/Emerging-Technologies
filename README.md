@@ -49,8 +49,7 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/izzyKavanagh/Emerging-Technologies.git
 ```
 
 2. **Install dependencies:**
@@ -62,13 +61,13 @@ pip install -r requirements.txt
 3. **Launch the notebook:**
 
 ```bash
-jupyter notebook deutsch_jozsa.ipynb
+jupyter notebook problems.ipynb
 ```
 
 or, if using JupyterLab:
 
 ```bash
-jupyter lab deutsch_jozsa.ipynb
+jupyter lab problems.ipynb
 ```
 
 4. **Run all cells in order.** Each problem builds on the previous one, so cells should be executed sequentially from top to bottom.

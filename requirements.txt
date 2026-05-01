@@ -1,7 +1,9 @@
 # requirements.txt
 # Python dependencies for the Deutsch & Deutsch-Jozsa Algorithm notebook
 # Install with: pip install -r requirements.txt
-# Requires Python 3.10+
+
+# Python version requirement (for documentation / tooling)
+python>=3.10
 
 # Jupyter environment
 jupyter>=1.0.0
