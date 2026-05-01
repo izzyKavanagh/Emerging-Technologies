@@ -1,0 +1,20 @@
+# requirements.txt
+# Python dependencies for the Deutsch & Deutsch-Jozsa Algorithm notebook
+# Install with: pip install -r requirements.txt
+# Requires Python 3.10+
+
+# Jupyter environment
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+
+# Qiskit — quantum circuit construction and simulation
+qiskit>=1.0.0
+qiskit-aer>=0.14.0
+
+# Qiskit visualisation dependencies
+pylatexenc>=2.10        # required for circuit drawing with draw('mpl')
+matplotlib>=3.7.0       # required for circuit drawing with draw('mpl')
+
+# Python standard library modules used (no installation required):
+#   random        — random.choice(), random.sample()
+#   itertools     — itertools.product()
